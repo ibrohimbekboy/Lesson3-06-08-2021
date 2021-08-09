@@ -23,7 +23,7 @@ namespace lesson_2
             Console.WriteLine($"{a} {b}");
            
             
-            /*Дз 3
+            //Дз 3
             double operand1 = double.Parse(Console.ReadLine());
             double operand2 = double.Parse(Console.ReadLine());
             string sing = Console.ReadLine();
@@ -40,15 +40,16 @@ namespace lesson_2
                     Console.WriteLine(operand1/operand2);
                 }
                 } break;  
-              */
-              /*ДЗ 4
+             
+              //ДЗ 4
+
                   double N= double.Parse(Console.ReadLine());
                   if(N>=0 && N<=14) Console.WriteLine("[0-14]");
                   else if(N>=15 && N<=35)Console.WriteLine("[15-30]");
                   else if(N>=36 && N<=50)Console.WriteLine("[36-50]");
                 else 
                 Console.WriteLine("[50-100]");
-            */
+            
             }
 
 
